@@ -106,37 +106,3 @@ Git • GitHub • Linux • VS Code • Google Colab
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barathelumalai&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Barathelumalai&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Snake Eating Contributions
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Barathelumalai/Barathelumalai/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-🧠 I enjoy exploring how machines **see, learn, and understand the world**.
-
-🚀 Currently learning **Deep Learning & Generative AI** while building **real AI projects**.
-
----
-
-<p align="center">
-⭐ From <b>Barath</b> — Building the future with AI
-</p>
