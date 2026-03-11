@@ -1,74 +1,142 @@
+<!-- ======================= BANNER ======================= -->
+
 <h1 align="center">Hi 👋, I'm Barath</h1>
 
 <h3 align="center">
-AI / ML Engineer | Deep Learning | Computer Vision | NLP
+AI / ML Engineer | Deep Learning Enthusiast | Building Intelligent Systems
 </h3>
 
----
-
-## 👨‍💻 About Me
-
-* 🎓 B.Tech **2nd Year Artificial Intelligence & Machine Learning** student
-* 🤖 Passionate about **Machine Learning & Deep Learning**
-* 🌍 Multilingual – I can speak **4 languages**
-* 🧠 Interested in **AI, Computer Vision, and NLP**
-* 🚀 Building intelligent systems and ML projects
-
-📫 **Email:** [barathelumalai22@gmail.com](mailto:barathelumalai22@gmail.com)
-📍 **Location:** Chennai, India
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial%20Intelligence%20Engineer;Machine%20Learning%20Enthusiast;Deep%20Learning%20Explorer;Computer%20Vision%20&%20NLP%20Learner;Building%20Intelligent%20Systems&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🌱 Currently Learning
+# 👨‍💻 About Me
 
-* Deep Learning
-* Computer Vision
-* Natural Language Processing
-* MLOps
+🎓 **B.Tech 2nd Year Artificial Intelligence & Machine Learning student**
 
----
+🤖 Passionate about **Machine Learning & Deep Learning**
 
-## 🛠 Tech Stack
+🌍 **Multilingual – I can speak 4 languages**
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-purple?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
-![OpenCV](https://img.shields.io/badge/OpenCV-green?logo=opencv)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-yellow)
-![Git](https://img.shields.io/badge/Git-red?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+🧠 Interested in **AI, Computer Vision, and NLP**
+
+🚀 Building **intelligent systems and ML projects**
+
+📫 Email: **barathelumalai22@gmail.com**
+
+📍 Location: **Chennai, India**
 
 ---
 
-## 🔗 Connect With Me
+# 🚀 Tech Stack
+
+### 🤖 AI / ML Domains
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-red?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-green?style=for-the-badge)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-orange?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-grey?style=for-the-badge)
+
+---
+
+### 🧠 ML / AI Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python"/>
+</p>
+
+TensorFlow • PyTorch • Scikit-learn • OpenCV • NumPy • Pandas
+
+---
+
+### 💻 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
+</p>
+
+Git • GitHub • Linux • VS Code • Google Colab
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/barath-e-421a88380" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/barath-e-421a88380">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/barath_elumalai_" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
+<a href="https://www.instagram.com/barath_elumalai_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Barathelumalai/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
+<a href="https://leetcode.com/u/Barathelumalai/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:barathelumalai22@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Barath's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarathElumalai22\&show_icons=true\&theme=tokyonight)
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barathelumalai&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barathelumalai&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.)
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Barathelumalai&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Barathelumalai&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Barathelumalai/Barathelumalai/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+🧠 I enjoy exploring how machines **see, learn, and understand the world**.
+
+🚀 Currently learning **Deep Learning & Generative AI** while building **real AI projects**.
+
+---
+
+<p align="center">
+⭐ From <b>Barath</b> — Building the future with AI
+</p>
