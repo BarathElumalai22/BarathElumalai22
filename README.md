@@ -12,13 +12,10 @@ AI / ML Engineer | Deep Learning | Computer Vision | NLP
 * 🤖 Passionate about **Machine Learning & Deep Learning**
 * 🌍 Multilingual – I can speak **4 languages**
 * 🧠 Interested in **AI, Computer Vision, and NLP**
-* 🚀 Building **Machine Learning projects and intelligent systems**
+* 🚀 Building intelligent systems and ML projects
 
-📫 **Reach me at:**
-[barathelumalai22@gmail.com](mailto:barathelumalai22@gmail.com)
-
-📍 **Location:**
-Chennai, India
+📫 **Email:** [barathelumalai22@gmail.com](mailto:barathelumalai22@gmail.com)
+📍 **Location:** Chennai, India
 
 ---
 
@@ -48,11 +45,21 @@ Chennai, India
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/barath-e-421a88380)
+<p align="left">
 
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/barath_elumalai_)
+<a href="https://www.linkedin.com/in/barath-e-421a88380" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/u/Barathelumalai/)
+<a href="https://www.instagram.com/barath_elumalai_" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://leetcode.com/u/Barathelumalai/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
+</a>
+
+</p>
 
 ---
 
@@ -64,16 +71,4 @@ Chennai, India
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BarathElumalai22\&theme=tokyonight)
-
----
-
-## 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarathElumalai22\&layout=compact\&theme=tokyonight)
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=BarathElumalai22)
+![GitHub Streak](https://github-readme-streak-stats.)
