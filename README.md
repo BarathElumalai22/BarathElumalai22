@@ -1,6 +1,6 @@
 <!-- ======================= BANNER ======================= -->
 
-<h1 align="center">Hi 👋, I'm Barath</h1>
+<h1 align="center">Barath</h1>
 
 <h3 align="center">
 AI / ML Engineer | Deep Learning Enthusiast | Building Intelligent Systems
