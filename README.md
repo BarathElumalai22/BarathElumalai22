@@ -14,9 +14,7 @@
 
 🤖 Passionate about **Machine Learning & Deep Learning**
 
-🌍 **Multilingual – I can speak 4 languages**
-
-🧠 Interested in **AI, Computer Vision, and NLP**
+🧠 Interested in **AI, Computer Vision, DL and NLP**
 
 🚀 Building **intelligent systems and ML projects**
 
