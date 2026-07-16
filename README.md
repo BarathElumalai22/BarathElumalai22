@@ -69,5 +69,3 @@ Jupyter Notebook • Google Colab • pycharm • VS Code
 </a>
 
 ---
-
-
