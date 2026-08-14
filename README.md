@@ -10,7 +10,7 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech 2nd Year **Artificial Intelligence & Machine Learning** student
+🎓 B.Tech **Artificial Intelligence & Machine Learning** student
 
 🤖 Passionate about **Machine Learning & Deep Learning**
 
